@@ -1,1 +1,2 @@
 # Flood-Fill-Game-Terminal
+This project is a terminal-based game using random numbers in a 2D array. This was coded using Python. The goal is to make all the numbers the same. You start by selecting a row index and a column index to add to your 'filled' territory. Each iteration you select a number in a horizontally or vertically adjacent position to fill your filled territory, and they are added to it. The process continues until the goal is achieved.
